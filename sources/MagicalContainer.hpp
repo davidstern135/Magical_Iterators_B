@@ -1,5 +1,5 @@
-#ifndef MAGICAL_CONTAINER_HPP
-#define MAGICAL_CONTAINER_HPP
+#ifndef CPP_MAGICALCONTAINER_HPP
+#define CPP_MAGICALCONTAINER_HPP
 
 #include <vector>
 #include <algorithm>
